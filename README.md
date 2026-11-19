@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Harini Iska! 👋
 
-<!--
-**harini-iska/harini-iska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Python Programming and Artificial Intelligence.
+- Learning Machine Learning and Data Analysis.
+- Enjoy building practical projects and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- Machine Learning
+- Git and GitHub
+
+## Projects
+- **Student Performance Analysis** – Analyzing student marks, calculating grades, and visualizing performance using Python.
+
+## Currently Learning
+- Python
+- Data Structures
+- Machine Learning
+
+
